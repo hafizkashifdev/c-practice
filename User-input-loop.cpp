@@ -18,3 +18,6 @@ int main() {
 
     return 0;
 }
+
+
+// git clone https://github.com/hafizkashifdev/c-practice.git
